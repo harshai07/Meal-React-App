@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <div>
       <h1>Generative AI Restaurant App!</h1>
-      <p>Built with ❤️ using ReactJS + Redux + Google Gemini</p>
+      <p>Built with using ReactJS + Redux + Google Gemini</p>
 
       <div style={{ margin: '30px 0' }}>
         <button
